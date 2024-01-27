@@ -1,0 +1,12 @@
+booking_id,guest_email,country_name,hotel_name,adults,children,status,check_in,check_out,room_type
+1,evalin_quin@gmail.com,Monaco,Hilton La Turbie,2,2,active,1/1/2024,1/11/2024,twin
+2,valeri_sahakyan@gmail.com,Italy,Mariot Hotel Venice,2,2,cancelled,1/1/2024,2/2/2024,king
+3,valeri_sahakyan@gmail.com,Italy,Mariot Hotel Milan,2,2,active,1/1/2024,2/2/2024,king
+4,louie_sall@gmail.com,Netherlands,Gaylord Hotel Amsterdam,1,0,active,2/2/2024,5/2/2024,single
+5,subba_white@gmail.com,Qatar,Days Inn Doha,2,0,cancelled,5/1/2024,9/1/2024,double
+6,subba_white@gmail.com,Qatar,Days Inn Doha,2,0,active,2/2/2024,9/2/2024,double
+7,mark_wick@gmail.com,Japan,Courtyard Hotels Tokyo,2,4,active,3/3/2024,8/3/2024,quad
+8,dewey_quincy@gmail.com,Greece,Courtyard Hotels Athens,4,0,active,1/4/2024,8/4/2024,twin
+9,sipan_arshakyan@gmail.com,Oman,Accor Khasab,2,2,cancelled,5/5/2024,6/6/2024,king
+10,lubba_brown@gmail.com,Peru,Sheraton Lima,2,2,active,6/6/2024,8/7/2024,queen
+11,mark_wick@gmail.com,Italy,Mariot Hotel Rome,2,2,cancelled,01/01/2024,09/01/2024,king
